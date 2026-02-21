@@ -50,5 +50,5 @@ progress
 
 EDUCATION
 
-Palomar College — Computer Science A.A. (Pending)
-GPA: 3.5 | Transferring Spring 2026
+Palomar College — Computer Science A.A.
+GPA: 3.54 | Transferring Spring 2026
