@@ -16,7 +16,7 @@ Tools: Git, Google Colab
 
 TECHNICAL EXPERIENCE
 Embedded Systems Intern (C / Firmware)
-RRT Electronics — San Diego, CA 92127 | Summer 2024
+RRT Electronics — San Diego, CA 92127 | Summer 2025
 - Programmed embedded C firmware on TI LaunchPad (C2000 F28P65x) development kit
 - Worked with low-level firmware related to power delivery and control logic
 - Used Git for version control while iterating on embedded code
@@ -51,4 +51,4 @@ progress
 EDUCATION
 
 Palomar College — Computer Science A.A.
-GPA: 3.54 | Transferring Spring 2026
+GPA: 3.57 | Transferring Spring 2026
