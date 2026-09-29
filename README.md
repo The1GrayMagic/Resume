@@ -6,7 +6,7 @@ Expected graduation: December 2028.
 
 ## Resume
 
-[View Resume PDF](./Grayson_Bjork_Resume.pdf)
+[View Resume PDF](Grayson_Bjork_Resume.pdf)
 
 ## Links
 
